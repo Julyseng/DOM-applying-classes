@@ -20,6 +20,13 @@ div {
 .blue {
   background-color: blue;
 }
+.green {
+  background-color: green;
+}
+
+.pink {
+  background-color: pink;
+}
 
 .invisible {
   display: none;
@@ -29,5 +36,5 @@ div {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: orange;
 }
